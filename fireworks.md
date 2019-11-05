@@ -16,13 +16,11 @@ Possible displays:
 	Start Time: 5pm
 	Description: Bonfire and parade
 	Price: £10
-<<<<<<< HEAD
 3. Wembley Park
 	Date: 8th November
 	Start TimeL 7pm
 	Description: Fireworks display and carnival
 	Prince £5
-=======
 
 
 
