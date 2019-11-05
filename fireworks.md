@@ -3,6 +3,7 @@ Fireworks Night
 
 =====================
 
+List of fireworks displays
 
 Possible displays: 
 1. Walthamstow Park
