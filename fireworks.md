@@ -16,15 +16,13 @@ Possible displays:
 	Start Time: 5pm
 	Description: Bonfire and parade
 	Price: £10
-3. Wimbledon Park
-	Date: 7th November
-	Start Time: 8pm
-	Description: Fireworks display 
-	Price: Free
-4. Wembley Park
+<<<<<<< HEAD
+3. Wembley Park
 	Date: 8th November
 	Start TimeL 7pm
 	Description: Fireworks display and carnival
 	Prince £5
+=======
+
 
 
