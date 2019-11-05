@@ -14,6 +14,9 @@ Possible displays:
 	Start Time: 5pm
 	Description: Bonfire and parade
 	Price: £10
-
+3. Wimbledon Park
+	Start Time: 8pm
+	Description: Fireworks display 
+	Price: Free
 
 
