@@ -8,6 +8,12 @@ Why are there so few free fireworks displays in London?
 Possible displays: 
 1. Walthamstow Park 
 	Start Time: 7pm 
+	Description: Fireworks display set to 80s music
+	Price: Free
 2. Southwark Park
 	Start Time: 5pm
-	
+	Description: Bonfire and parade
+	Price: £10
+
+
+
